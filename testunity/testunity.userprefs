@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\RichSolitaire-klondike-develop\Unity\Assets\Game\Lib\Kommon\Logic\GameRoutine.cs">
+    <Files>
+      <File FileName="..\..\..\tramp\Assets\set\card.cs" Line="115" Column="1" />
+      <File FileName="..\..\..\RichSolitaire-klondike-develop\Unity\Assets\Game\Lib\Kommon\Logic\GameRoutine.cs" Line="42" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
